@@ -1,10 +1,6 @@
 # My-First-Open-Source-Contribution
 
-I contributed by creating a **Zotero handler** for **MindsDB**, allowing seamless integration of bibliographic data with AI-powered queries.
-
-- MindsDB - AI-powered database integration
-- Zotero - Reference management
-- Open Source Collaboration
+I contributed by creating a **Zotero handler** (Research material and Reference management) for **MindsDB** (AI-powered database integration), allowing seamless integration of bibliographic data with AI-powered queries.
 
 Excited to contribute more to open-source projects!
 
